@@ -5,7 +5,8 @@ This is my datetime utils, share with everyone needed.
 ### install
 
 ```
-git clone 
+git clone https://github.com/luffy51k/vdateutils.git
+cd vdateutils/
 python setup.py install
 ```
 
