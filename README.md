@@ -13,7 +13,7 @@ python setup.py install
 ### example
 
 ```python
-from src.mydatetime import format_timestamp_to_str_time, date_add_from_now, date_sub_from_now, date_add, compare_2date,\
+from vdateutils import format_timestamp_to_str_time, date_add_from_now, date_sub_from_now, date_add, compare_2date,\
     sub_2date
 
 
