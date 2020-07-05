@@ -1,6 +1,6 @@
 # vdateutils
 
-This is my datetime utils, share with everyone needed.
+This is my datetime utils, share to everyone needed.
 
 ### install
 
@@ -10,7 +10,7 @@ cd vdateutils/
 python setup.py install
 ```
 
-### example
+### usage
 
 ```python
 from vdateutils import format_timestamp_to_str_time, date_add_from_now, date_sub_from_now, date_add, compare_2date,\
